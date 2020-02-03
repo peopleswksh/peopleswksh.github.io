@@ -102,6 +102,7 @@ header {
   width:270px;
   float:left;
   /*position:fixed;*/
+  position:sticky;
 }
 
 header ul {
